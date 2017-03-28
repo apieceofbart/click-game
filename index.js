@@ -25,6 +25,6 @@ setInterval(function(){
 		if (!newBall) {
 			points--;
 			console.log('too early! Total points:', points);
-			
+			//dodajemy komentarz mój
 		}
 	}
